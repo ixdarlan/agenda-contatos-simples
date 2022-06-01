@@ -1,9 +1,9 @@
-# Simple Contact Book
+# Agenda de Contatos Simples
 
-### ᴄᴏɴᴛᴇɴᴛ
+#### ✒️Motivo
 
-A simple address book with name, number and e-mail variants, with the option to add, delete and view contact.
+Atividade proposta por um professor da faculdade.
 
-#### 🎯ɢᴏᴀʟ
+#### 🎯Objetivo
 
-Get more knowledge and experience with python and also learn more about programming logic
+Montar uma agenda de contatos simples que inicialmente tenha 2 variáveis, nome e número.
